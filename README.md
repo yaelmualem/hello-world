@@ -1,2 +1,3 @@
 # hello-world
-hellow world repository yael mualem
+Hi, this is the Hellow World repository of Yael Mualem.
+Enjoy!
